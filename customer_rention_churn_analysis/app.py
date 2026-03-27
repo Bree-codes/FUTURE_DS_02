@@ -11,7 +11,7 @@ st.title("📊 Customer Churn Analysis Dashboard")
 # ------------------------
 # Load & Preprocess Data
 # ------------------------
-df = load_data("/home/bree/Downloads/WA_Fn-UseC_-Telco-Customer-Churn.xls")
+df = load_data("customer_rention_churn_analysis/WA_Fn-UseC_-Telco-Customer-Churn.csv")
 df = add_features(df)
 
 # ------------------------
