@@ -29,7 +29,7 @@ Implication: Focus on improving contract retention, onboarding experience, and p
 
 ## Screenshots
 
-<img width="1323" height="591" alt="Screenshot from 2026-03-27 10-50-45" src="https://github.com/user-attachments/assets/f1b9a28b-2dcc-4850-b758-14f973eb280b" />
+<img width="1323" height="321" alt="Screenshot from 2026-03-27 10-55-39" src="https://github.com/user-attachments/assets/83d4c426-3a2f-4160-82d0-ac4a4eb0553a" />
 <img width="1323" height="591" alt="Screenshot from 2026-03-27 10-50-52" src="https://github.com/user-attachments/assets/6f8ba0bd-ba87-4605-accc-68c8dd33462f" />
 <img width="1323" height="591" alt="Screenshot from 2026-03-27 10-50-58" src="https://github.com/user-attachments/assets/a1ce46da-6dc8-4814-98f8-e4751ed494be" />
 <img width="1323" height="591" alt="Screenshot from 2026-03-27 10-51-09" src="https://github.com/user-attachments/assets/2c5e32b8-3e25-4ff9-a19a-433514efc425" />
