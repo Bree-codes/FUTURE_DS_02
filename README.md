@@ -20,6 +20,9 @@ Insights Section – Highlights highest churn segments and actionable conclusion
 Recommendations – Practical steps to reduce churn
 Raw Data Viewer – Expandable table to view filtered data
 
+## Live Demo from streamlit
+link: https://bree-codes-customer-rention-churn-future-interns-002.streamlit.app/
+
 ## Key Insights
 Customers on month-to-month contracts have the highest churn rate
 Early-stage customers (0–6 months) are most likely to leave
